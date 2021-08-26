@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anujkumar0545
+- 👋 Hi, I’m ANUJ
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning DBMS
 - 💞️ I’m looking to collaborate on exciting projects
